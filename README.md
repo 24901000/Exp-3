@@ -1,61 +1,51 @@
-# Exp - 2 LIBRARY MANAGEMENT SYSTEM
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
-
+To study the problem statement, SRS document and draw all the UML diagrams of a Railway Management System.
 # SRS (Procedure):
 
-1. Study and understand the requirements of the library system
-2. Identify the users or actors who interact with the system like librarian, member, admin
-3. List the main functions of the system such as issue book, return book, search book, add book
-4. Identify main objects or classes like Book, Member, Librarian, Transaction, Catalog
-5. Define relationships and interactions among users and system components
-6. Create the workflow or process flow for activities like book issue and return
+1. Study and understand the requirements of the railway management system
+2. Identify the users or actors like passenger, booking clerk, admin, reservation system
+3. List the main functions such as ticket booking, ticket cancellation, train schedule, seat availability
+4. Identify main objects or classes like Train, Ticket, Passenger, Reservation, Payment
+5. Define the relationships and interactions among system components
+6. Create the workflow or process flow for ticket booking or cancellation
 7. Organize the system structure and represent it using UML diagrams
 
 
 # DIAGRAMS:
-(upload all 6 diagrams)
 
-UML Diagrams:
 USE CASE DIAGRAM:
 
-<img width="1284" height="1043" alt="Screenshot 2026-02-12 155913" src="https://github.com/user-attachments/assets/4bbdd507-6a78-400a-b7b8-6cbad7b0bddf" />
-
-
+<img width="1302" height="1034" alt="image" src="https://github.com/user-attachments/assets/14ea01c8-241d-49dc-a5a4-3fc58c9c7d98" />
 
 CLASS DIAGRAM:
 
-<img width="1595" height="1144" alt="Screenshot 2026-02-12 160947" src="https://github.com/user-attachments/assets/81ced9be-604f-4bcb-9764-863392188440" />
+<img width="1595" height="1144" alt="Screenshot 2026-02-12 160947" src="https://github.com/user-attachments/assets/7f25b504-f6f9-4296-b25f-dd7e4f690534" />
 
-
-
-ACTIVITY DIAGRAM:
-
-<img width="1192" height="1014" alt="Screenshot 2026-02-12 162011" src="https://github.com/user-attachments/assets/f35ce1c6-4f80-4a0e-a95d-e750ef8c4622" />
 
 
 PACKAGE DIAGRAM:
 
-<img width="1602" height="1100" alt="Screenshot 2026-02-12 161337" src="https://github.com/user-attachments/assets/e357e1e6-c3d7-4301-aba8-0ce02508906b" />
+<img width="1602" height="1100" alt="Screenshot 2026-02-12 161337" src="https://github.com/user-attachments/assets/a225ba2b-9b44-4e19-b190-a8eef3b1016c" />
 
+ACTIVITY DIAGRAM:
 
-SEQUENCE DIAGRAM:
-
-<img width="1905" height="1077" alt="Screenshot 2026-02-16 153938" src="https://github.com/user-attachments/assets/e3f3a3a8-5231-46b6-a156-e0d426c889d8" />
+<img width="1192" height="1014" alt="Screenshot 2026-02-12 162011" src="https://github.com/user-attachments/assets/2c1789c3-bc80-4b94-80ee-9d18e4d4a99e" />
 
 
 COMMUNICATION DIAGRAM:
 
-<img width="1701" height="1053" alt="Screenshot 2026-02-16 155359" src="https://github.com/user-attachments/assets/9c0a3d09-e867-41ba-80ba-01ddf9c2a3b4" />
+<img width="1905" height="1077" alt="Screenshot 2026-02-16 153938" src="https://github.com/user-attachments/assets/293fa974-00c5-4c08-b343-1eb691c1c584" />
 
 
-## RESULT:
-Thus the Library management system project was executed and the output was verified.
+SEQUENCE DIAGRAM:
+
+<img width="1701" height="1053" alt="Screenshot 2026-02-16 155359" src="https://github.com/user-attachments/assets/148479cd-b39a-4c78-8e69-f8d965676f37" />
 
 
 
 
-
-
+# RESULT:
+Thus the Railway management system project was executed and the output was verified.
 
